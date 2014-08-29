@@ -1,0 +1,3 @@
+{ "id":1, "layers": {"l1": true, "l2": true} }
+{ "id":2, "layers": {"l1": true}, "bbox": [1,20,3,40] }
+{ "id":3, "layers": {"l2": true} }
